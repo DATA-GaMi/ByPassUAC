@@ -1,0 +1,7 @@
+D:\C#\ByPaSsuAc\bin\Debug\ByPaSsuAc.exe.config
+D:\C#\ByPaSsuAc\bin\Debug\ByPaSsuAc.exe
+D:\C#\ByPaSsuAc\bin\Debug\ByPaSsuAc.pdb
+D:\C#\ByPaSsuAc\obj\Debug\ByPaSsuAc.csproj.AssemblyReference.cache
+D:\C#\ByPaSsuAc\obj\Debug\ByPaSsuAc.csproj.CoreCompileInputs.cache
+D:\C#\ByPaSsuAc\obj\Debug\ByPaSsuAc.exe
+D:\C#\ByPaSsuAc\obj\Debug\ByPaSsuAc.pdb
